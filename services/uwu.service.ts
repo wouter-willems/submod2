@@ -5,6 +5,6 @@ import {Injectable} from "@angular/core";
 })
 export class UwuService {
   bla() {
-    return 'blaat';
+    return 'uwu town 222';
   }
 }
