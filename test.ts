@@ -1,1 +1,1 @@
-export const aap = 'what up';
+export const aap = 'iokay dan';
